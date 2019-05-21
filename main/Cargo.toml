@@ -1,0 +1,9 @@
+[package]
+name = "main"
+version = "0.1.0"
+authors = ["Solleter <Solleter@outlook.com>"]
+edition = "2018"
+
+[dependencies]
+r01_display = { path = "../r01_display"}
+r02_testlist = { path = "../r02_testlist"}

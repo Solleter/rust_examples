@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "main",
+    "r01_display",
+    "r02_testlist"
+]

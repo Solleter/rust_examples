@@ -1,0 +1,7 @@
+[package]
+name = "r01_display"
+version = "0.1.0"
+authors = ["Solleter <Solleter@outlook.com>"]
+edition = "2018"
+
+[dependencies]
