@@ -14,9 +14,24 @@
       <sourceFolder url="file://$MODULE_DIR$/r02_testlist/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/r02_testlist/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/r02_testlist/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r03_format/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r03_format/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r03_format/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r03_format/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r04_datatype/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r04_datatype/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r04_datatype/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r04_datatype/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r05_literal/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r05_literal/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r05_literal/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r05_literal/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/r01_display/target" />
       <excludeFolder url="file://$MODULE_DIR$/r02_testlist/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r03_format/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r04_datatype/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r05_literal/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

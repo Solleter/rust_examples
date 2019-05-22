@@ -3,5 +3,8 @@
 members = [
     "main",
     "r01_display",
-    "r02_testlist"
+    "r02_testlist",
+    "r03_format",
+    "r04_datatype",
+    "r05_literal",
 ]

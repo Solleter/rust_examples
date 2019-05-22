@@ -6,6 +6,9 @@ version = "0.1.0"
 dependencies = [
  "r01_display 0.1.0",
  "r02_testlist 0.1.0",
+ "r03_format 0.1.0",
+ "r04_datatype 0.1.0",
+ "r05_literal 0.1.0",
 ]
 
 [[package]]
@@ -14,5 +17,17 @@ version = "0.1.0"
 
 [[package]]
 name = "r02_testlist"
+version = "0.1.0"
+
+[[package]]
+name = "r03_format"
+version = "0.1.0"
+
+[[package]]
+name = "r04_datatype"
+version = "0.1.0"
+
+[[package]]
+name = "r05_literal"
 version = "0.1.0"
 

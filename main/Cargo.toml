@@ -7,3 +7,6 @@ edition = "2018"
 [dependencies]
 r01_display = { path = "../r01_display"}
 r02_testlist = { path = "../r02_testlist"}
+r03_format = { path = "../r03_format"}
+r04_datatype = { path = "../r04_datatype" }
+r05_literal = { path = "../r05_literal" }
