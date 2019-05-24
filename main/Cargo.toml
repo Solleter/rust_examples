@@ -10,3 +10,5 @@ r02_testlist = { path = "../r02_testlist"}
 r03_format = { path = "../r03_format"}
 r04_datatype = { path = "../r04_datatype" }
 r05_literal = { path = "../r05_literal" }
+r06_tuple = { path = "../r06_tuple" }
+r07_array_slice = { path = "../r07_array_slice" }

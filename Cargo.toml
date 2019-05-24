@@ -7,4 +7,6 @@ members = [
     "r03_format",
     "r04_datatype",
     "r05_literal",
+    "r06_tuple",
+    "r07_array_slice",
 ]
