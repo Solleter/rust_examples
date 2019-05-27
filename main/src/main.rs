@@ -5,9 +5,10 @@ use r04_datatype;
 use r05_literal;
 use r06_tuple;
 use r07_array_slice;
+use r08_struct;
 
 fn main() {
-    let example = 7;
+    let example = 8;
 
     match example {
         1 => r01_display::execute(),
@@ -17,6 +18,7 @@ fn main() {
         5 => r05_literal::execute(),
         6 => r06_tuple::execute(),
         7 => r07_array_slice::execute(),
+        8 => r08_struct::execute(),
         _ => (),
     }
 

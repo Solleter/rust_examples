@@ -12,3 +12,4 @@ r04_datatype = { path = "../r04_datatype" }
 r05_literal = { path = "../r05_literal" }
 r06_tuple = { path = "../r06_tuple" }
 r07_array_slice = { path = "../r07_array_slice" }
+r08_struct = { path = "../r08_struct" }

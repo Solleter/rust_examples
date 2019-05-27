@@ -34,6 +34,10 @@
       <sourceFolder url="file://$MODULE_DIR$/r07_array_slice/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/r07_array_slice/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/r07_array_slice/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r08_struct/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r08_struct/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r08_struct/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r08_struct/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/r01_display/target" />
       <excludeFolder url="file://$MODULE_DIR$/r02_testlist/target" />
@@ -42,6 +46,7 @@
       <excludeFolder url="file://$MODULE_DIR$/r05_literal/target" />
       <excludeFolder url="file://$MODULE_DIR$/r06_tuple/target" />
       <excludeFolder url="file://$MODULE_DIR$/r07_array_slice/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r08_struct/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

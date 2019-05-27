@@ -11,6 +11,7 @@ dependencies = [
  "r05_literal 0.1.0",
  "r06_tuple 0.1.0",
  "r07_array_slice 0.1.0",
+ "r08_struct 0.1.0",
 ]
 
 [[package]]
@@ -39,5 +40,9 @@ version = "0.1.0"
 
 [[package]]
 name = "r07_array_slice"
+version = "0.1.0"
+
+[[package]]
+name = "r08_struct"
 version = "0.1.0"
 
