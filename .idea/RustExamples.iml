@@ -38,6 +38,26 @@
       <sourceFolder url="file://$MODULE_DIR$/r08_struct/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/r08_struct/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/r08_struct/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r09_enum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r09_enum/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r09_enum/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r09_enum/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r10_enum_use/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r10_enum_use/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r10_enum_use/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r10_enum_use/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r11_enum_cstyle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r11_enum_cstyle/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r11_enum_cstyle/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r11_enum_cstyle/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r12_testcase_linklist/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r12_testcase_linklist/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r12_testcase_linklist/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r12_testcase_linklist/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r13_const/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r13_const/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r13_const/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r13_const/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/r01_display/target" />
       <excludeFolder url="file://$MODULE_DIR$/r02_testlist/target" />
@@ -47,6 +67,11 @@
       <excludeFolder url="file://$MODULE_DIR$/r06_tuple/target" />
       <excludeFolder url="file://$MODULE_DIR$/r07_array_slice/target" />
       <excludeFolder url="file://$MODULE_DIR$/r08_struct/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r09_enum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r10_enum_use/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r11_enum_cstyle/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r12_testcase_linklist/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r13_const/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

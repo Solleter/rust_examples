@@ -12,6 +12,11 @@ dependencies = [
  "r06_tuple 0.1.0",
  "r07_array_slice 0.1.0",
  "r08_struct 0.1.0",
+ "r09_enum 0.1.0",
+ "r10_enum_use 0.1.0",
+ "r11_enum_cstyle 0.1.0",
+ "r12_testcase_linklist 0.1.0",
+ "r13_const 0.1.0",
 ]
 
 [[package]]
@@ -44,5 +49,25 @@ version = "0.1.0"
 
 [[package]]
 name = "r08_struct"
+version = "0.1.0"
+
+[[package]]
+name = "r09_enum"
+version = "0.1.0"
+
+[[package]]
+name = "r10_enum_use"
+version = "0.1.0"
+
+[[package]]
+name = "r11_enum_cstyle"
+version = "0.1.0"
+
+[[package]]
+name = "r12_testcase_linklist"
+version = "0.1.0"
+
+[[package]]
+name = "r13_const"
 version = "0.1.0"
 
