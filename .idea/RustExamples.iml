@@ -58,6 +58,22 @@
       <sourceFolder url="file://$MODULE_DIR$/r13_const/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/r13_const/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/r13_const/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r14_variable_bind/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r14_variable_bind/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r14_variable_bind/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r14_variable_bind/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r15_mut_variable/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r15_mut_variable/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r15_mut_variable/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r15_mut_variable/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r16_scope_shadowing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r16_scope_shadowing/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r16_scope_shadowing/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r16_scope_shadowing/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r17_type_convert/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r17_type_convert/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r17_type_convert/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r17_type_convert/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/r01_display/target" />
       <excludeFolder url="file://$MODULE_DIR$/r02_testlist/target" />
@@ -72,6 +88,10 @@
       <excludeFolder url="file://$MODULE_DIR$/r11_enum_cstyle/target" />
       <excludeFolder url="file://$MODULE_DIR$/r12_testcase_linklist/target" />
       <excludeFolder url="file://$MODULE_DIR$/r13_const/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r14_variable_bind/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r15_mut_variable/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r16_scope_shadowing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r17_type_convert/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

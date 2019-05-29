@@ -1,0 +1,7 @@
+[package]
+name = "r14_variable_bind"
+version = "0.1.0"
+authors = ["Solleter <Solleter@outlook.com>"]
+edition = "2018"
+
+[dependencies]

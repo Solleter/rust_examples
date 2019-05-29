@@ -11,9 +11,13 @@ use r10_enum_use;
 use r11_enum_cstyle;
 use r12_testcase_linklist;
 use r13_const;
+use r14_variable_bind;
+use r15_mut_variable;
+use r16_scope_shadowing;
+use r17_type_convert;
 
 fn main() {
-    let example = 13;
+    let example = 17;
 
     match example {
         1 => r01_display::execute(),
@@ -28,7 +32,11 @@ fn main() {
         10 => r10_enum_use::execute(),
         11 => r11_enum_cstyle::execute(),
         12 => r12_testcase_linklist::execute(),
-        13=> r13_const::execute(),
+        13 => r13_const::execute(),
+        14 => r14_variable_bind::execute(),
+        15 => r15_mut_variable::execute(),
+        16 => r16_scope_shadowing::execute(),
+        17 => r17_type_convert::execute(),
         _ => (),
     }
 

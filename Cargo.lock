@@ -17,6 +17,10 @@ dependencies = [
  "r11_enum_cstyle 0.1.0",
  "r12_testcase_linklist 0.1.0",
  "r13_const 0.1.0",
+ "r14_variable_bind 0.1.0",
+ "r15_mut_variable 0.1.0",
+ "r16_scope_shadowing 0.1.0",
+ "r17_type_convert 0.1.0",
 ]
 
 [[package]]
@@ -69,5 +73,21 @@ version = "0.1.0"
 
 [[package]]
 name = "r13_const"
+version = "0.1.0"
+
+[[package]]
+name = "r14_variable_bind"
+version = "0.1.0"
+
+[[package]]
+name = "r15_mut_variable"
+version = "0.1.0"
+
+[[package]]
+name = "r16_scope_shadowing"
+version = "0.1.0"
+
+[[package]]
+name = "r17_type_convert"
 version = "0.1.0"
 

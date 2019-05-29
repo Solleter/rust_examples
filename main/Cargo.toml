@@ -18,3 +18,7 @@ r10_enum_use = { path = "../r10_enum_use" }
 r11_enum_cstyle = { path = "../r11_enum_cstyle" }
 r12_testcase_linklist = { path = "../r12_testcase_linklist" }
 r13_const = { path = "../r13_const" }
+r14_variable_bind = { path = "../r14_variable_bind" }
+r15_mut_variable = { path = "../r15_mut_variable" }
+r16_scope_shadowing = { path = "../r16_scope_shadowing" }
+r17_type_convert = { path = "../r17_type_convert" }
