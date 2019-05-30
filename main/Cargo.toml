@@ -22,3 +22,6 @@ r14_variable_bind = { path = "../r14_variable_bind" }
 r15_mut_variable = { path = "../r15_mut_variable" }
 r16_scope_shadowing = { path = "../r16_scope_shadowing" }
 r17_type_convert = { path = "../r17_type_convert" }
+r18_literal_variable = { path = "../r18_literal_variable" }
+r19_type_deduce = { path = "../r19_type_deduce" }
+r20_alias = { path = "../r20_alias" }

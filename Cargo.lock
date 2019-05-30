@@ -21,6 +21,9 @@ dependencies = [
  "r15_mut_variable 0.1.0",
  "r16_scope_shadowing 0.1.0",
  "r17_type_convert 0.1.0",
+ "r18_literal_variable 0.1.0",
+ "r19_type_deduce 0.1.0",
+ "r20_alias 0.1.0",
 ]
 
 [[package]]
@@ -89,5 +92,17 @@ version = "0.1.0"
 
 [[package]]
 name = "r17_type_convert"
+version = "0.1.0"
+
+[[package]]
+name = "r18_literal_variable"
+version = "0.1.0"
+
+[[package]]
+name = "r19_type_deduce"
+version = "0.1.0"
+
+[[package]]
+name = "r20_alias"
 version = "0.1.0"
 

@@ -74,6 +74,18 @@
       <sourceFolder url="file://$MODULE_DIR$/r17_type_convert/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/r17_type_convert/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/r17_type_convert/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r18_literal_variable/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r18_literal_variable/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r18_literal_variable/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r18_literal_variable/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r19_type_deduce/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r19_type_deduce/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r19_type_deduce/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r19_type_deduce/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r20_alias/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r20_alias/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r20_alias/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r20_alias/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/r01_display/target" />
       <excludeFolder url="file://$MODULE_DIR$/r02_testlist/target" />
@@ -92,6 +104,9 @@
       <excludeFolder url="file://$MODULE_DIR$/r15_mut_variable/target" />
       <excludeFolder url="file://$MODULE_DIR$/r16_scope_shadowing/target" />
       <excludeFolder url="file://$MODULE_DIR$/r17_type_convert/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r18_literal_variable/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r19_type_deduce/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r20_alias/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

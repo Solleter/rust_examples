@@ -15,9 +15,12 @@ use r14_variable_bind;
 use r15_mut_variable;
 use r16_scope_shadowing;
 use r17_type_convert;
+use r18_literal_variable;
+use r19_type_deduce;
+use r20_alias;
 
 fn main() {
-    let example = 17;
+    let example = 20;
 
     match example {
         1 => r01_display::execute(),
@@ -37,6 +40,9 @@ fn main() {
         15 => r15_mut_variable::execute(),
         16 => r16_scope_shadowing::execute(),
         17 => r17_type_convert::execute(),
+        18 => r18_literal_variable::execute(),
+        19 => r19_type_deduce::execute(),
+        20 => r20_alias::execute(),
         _ => (),
     }
 
