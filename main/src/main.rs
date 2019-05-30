@@ -18,9 +18,11 @@ use r17_type_convert;
 use r18_literal_variable;
 use r19_type_deduce;
 use r20_alias;
+use r21_from_to;
+use r22_tostring_fromstr;
 
 fn main() {
-    let example = 20;
+    let example = 22;
 
     match example {
         1 => r01_display::execute(),
@@ -43,6 +45,8 @@ fn main() {
         18 => r18_literal_variable::execute(),
         19 => r19_type_deduce::execute(),
         20 => r20_alias::execute(),
+        21 => r21_from_to::execute(),
+        22 => r22_tostring_fromstr::execute(),
         _ => (),
     }
 

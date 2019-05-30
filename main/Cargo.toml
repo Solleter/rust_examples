@@ -25,3 +25,5 @@ r17_type_convert = { path = "../r17_type_convert" }
 r18_literal_variable = { path = "../r18_literal_variable" }
 r19_type_deduce = { path = "../r19_type_deduce" }
 r20_alias = { path = "../r20_alias" }
+r21_from_to = { path = "../r21_from_to" }
+r22_tostring_fromstr = { path = "../r22_tostring_fromstr" }

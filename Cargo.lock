@@ -24,6 +24,8 @@ dependencies = [
  "r18_literal_variable 0.1.0",
  "r19_type_deduce 0.1.0",
  "r20_alias 0.1.0",
+ "r21_from_to 0.1.0",
+ "r22_tostring_fromstr 0.1.0",
 ]
 
 [[package]]
@@ -104,5 +106,13 @@ version = "0.1.0"
 
 [[package]]
 name = "r20_alias"
+version = "0.1.0"
+
+[[package]]
+name = "r21_from_to"
+version = "0.1.0"
+
+[[package]]
+name = "r22_tostring_fromstr"
 version = "0.1.0"
 

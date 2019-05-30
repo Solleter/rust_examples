@@ -86,6 +86,14 @@
       <sourceFolder url="file://$MODULE_DIR$/r20_alias/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/r20_alias/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/r20_alias/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r21_from_to/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r21_from_to/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r21_from_to/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r21_from_to/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r22_tostring_fromstr/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r22_tostring_fromstr/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r22_tostring_fromstr/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r22_tostring_fromstr/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/r01_display/target" />
       <excludeFolder url="file://$MODULE_DIR$/r02_testlist/target" />
@@ -107,6 +115,8 @@
       <excludeFolder url="file://$MODULE_DIR$/r18_literal_variable/target" />
       <excludeFolder url="file://$MODULE_DIR$/r19_type_deduce/target" />
       <excludeFolder url="file://$MODULE_DIR$/r20_alias/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r21_from_to/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r22_tostring_fromstr/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
