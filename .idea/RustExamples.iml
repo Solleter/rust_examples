@@ -94,6 +94,18 @@
       <sourceFolder url="file://$MODULE_DIR$/r22_tostring_fromstr/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/r22_tostring_fromstr/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/r22_tostring_fromstr/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r23_expression/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r23_expression/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r23_expression/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r23_expression/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r24_if_else/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r24_if_else/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r24_if_else/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r24_if_else/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r25_loop_while_for/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r25_loop_while_for/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r25_loop_while_for/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r25_loop_while_for/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/r01_display/target" />
       <excludeFolder url="file://$MODULE_DIR$/r02_testlist/target" />
@@ -117,6 +129,9 @@
       <excludeFolder url="file://$MODULE_DIR$/r20_alias/target" />
       <excludeFolder url="file://$MODULE_DIR$/r21_from_to/target" />
       <excludeFolder url="file://$MODULE_DIR$/r22_tostring_fromstr/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r23_expression/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r24_if_else/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r25_loop_while_for/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

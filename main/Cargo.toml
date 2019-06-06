@@ -27,3 +27,6 @@ r19_type_deduce = { path = "../r19_type_deduce" }
 r20_alias = { path = "../r20_alias" }
 r21_from_to = { path = "../r21_from_to" }
 r22_tostring_fromstr = { path = "../r22_tostring_fromstr" }
+r23_expression = { path = "../r23_expression" }
+r24_if_else = { path = "../r24_if_else" }
+r25_loop_while_for = { path = "../r25_loop_while_for" }

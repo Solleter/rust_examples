@@ -26,6 +26,9 @@ dependencies = [
  "r20_alias 0.1.0",
  "r21_from_to 0.1.0",
  "r22_tostring_fromstr 0.1.0",
+ "r23_expression 0.1.0",
+ "r24_if_else 0.1.0",
+ "r25_loop_while_for 0.1.0",
 ]
 
 [[package]]
@@ -114,5 +117,17 @@ version = "0.1.0"
 
 [[package]]
 name = "r22_tostring_fromstr"
+version = "0.1.0"
+
+[[package]]
+name = "r23_expression"
+version = "0.1.0"
+
+[[package]]
+name = "r24_if_else"
+version = "0.1.0"
+
+[[package]]
+name = "r25_loop_while_for"
 version = "0.1.0"
 

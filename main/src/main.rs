@@ -20,9 +20,12 @@ use r19_type_deduce;
 use r20_alias;
 use r21_from_to;
 use r22_tostring_fromstr;
+use r23_expression;
+use r24_if_else;
+use r25_loop_while_for;
 
 fn main() {
-    let example = 22;
+    let example = 25;
 
     match example {
         1 => r01_display::execute(),
@@ -47,6 +50,9 @@ fn main() {
         20 => r20_alias::execute(),
         21 => r21_from_to::execute(),
         22 => r22_tostring_fromstr::execute(),
+        23 => r23_expression::execute(),
+        24 => r24_if_else::execute(),
+        25 => r25_loop_while_for::execute(),
         _ => (),
     }
 
