@@ -106,6 +106,14 @@
       <sourceFolder url="file://$MODULE_DIR$/r25_loop_while_for/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/r25_loop_while_for/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/r25_loop_while_for/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r26_match/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r26_match/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r26_match/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r26_match/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r27_match_operations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r27_match_operations/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r27_match_operations/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r27_match_operations/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/r01_display/target" />
       <excludeFolder url="file://$MODULE_DIR$/r02_testlist/target" />
@@ -132,6 +140,8 @@
       <excludeFolder url="file://$MODULE_DIR$/r23_expression/target" />
       <excludeFolder url="file://$MODULE_DIR$/r24_if_else/target" />
       <excludeFolder url="file://$MODULE_DIR$/r25_loop_while_for/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r26_match/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r27_match_operations/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

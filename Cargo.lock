@@ -29,6 +29,8 @@ dependencies = [
  "r23_expression 0.1.0",
  "r24_if_else 0.1.0",
  "r25_loop_while_for 0.1.0",
+ "r26_match 0.1.0",
+ "r27_match_operations 0.1.0",
 ]
 
 [[package]]
@@ -129,5 +131,13 @@ version = "0.1.0"
 
 [[package]]
 name = "r25_loop_while_for"
+version = "0.1.0"
+
+[[package]]
+name = "r26_match"
+version = "0.1.0"
+
+[[package]]
+name = "r27_match_operations"
 version = "0.1.0"
 

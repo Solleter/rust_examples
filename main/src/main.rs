@@ -23,9 +23,11 @@ use r22_tostring_fromstr;
 use r23_expression;
 use r24_if_else;
 use r25_loop_while_for;
+use r26_match;
+use r27_match_operations;
 
 fn main() {
-    let example = 25;
+    let example = 27;
 
     match example {
         1 => r01_display::execute(),
@@ -53,6 +55,8 @@ fn main() {
         23 => r23_expression::execute(),
         24 => r24_if_else::execute(),
         25 => r25_loop_while_for::execute(),
+        26 => r26_match::execute(),
+        27 => r27_match_operations::execute(),
         _ => (),
     }
 

@@ -30,3 +30,5 @@ r22_tostring_fromstr = { path = "../r22_tostring_fromstr" }
 r23_expression = { path = "../r23_expression" }
 r24_if_else = { path = "../r24_if_else" }
 r25_loop_while_for = { path = "../r25_loop_while_for" }
+r26_match = { path = "../r26_match" }
+r27_match_operations = { path = "../r27_match_operations" }
