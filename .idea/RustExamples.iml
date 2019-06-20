@@ -114,6 +114,18 @@
       <sourceFolder url="file://$MODULE_DIR$/r27_match_operations/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/r27_match_operations/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/r27_match_operations/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r28_function/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r28_function/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r28_function/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r28_function/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r29_method/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r29_method/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r29_method/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r29_method/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r30_closure/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r30_closure/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r30_closure/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r30_closure/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/r01_display/target" />
       <excludeFolder url="file://$MODULE_DIR$/r02_testlist/target" />
@@ -142,6 +154,9 @@
       <excludeFolder url="file://$MODULE_DIR$/r25_loop_while_for/target" />
       <excludeFolder url="file://$MODULE_DIR$/r26_match/target" />
       <excludeFolder url="file://$MODULE_DIR$/r27_match_operations/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r28_function/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r29_method/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r30_closure/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

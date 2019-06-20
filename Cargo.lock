@@ -31,6 +31,9 @@ dependencies = [
  "r25_loop_while_for 0.1.0",
  "r26_match 0.1.0",
  "r27_match_operations 0.1.0",
+ "r28_function 0.1.0",
+ "r29_method 0.1.0",
+ "r30_closure 0.1.0",
 ]
 
 [[package]]
@@ -139,5 +142,17 @@ version = "0.1.0"
 
 [[package]]
 name = "r27_match_operations"
+version = "0.1.0"
+
+[[package]]
+name = "r28_function"
+version = "0.1.0"
+
+[[package]]
+name = "r29_method"
+version = "0.1.0"
+
+[[package]]
+name = "r30_closure"
 version = "0.1.0"
 

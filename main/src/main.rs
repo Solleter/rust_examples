@@ -25,9 +25,12 @@ use r24_if_else;
 use r25_loop_while_for;
 use r26_match;
 use r27_match_operations;
+use r28_function;
+use r29_method;
+use r30_closure;
 
 fn main() {
-    let example = 27;
+    let example = 30;
 
     match example {
         1 => r01_display::execute(),
@@ -57,6 +60,9 @@ fn main() {
         25 => r25_loop_while_for::execute(),
         26 => r26_match::execute(),
         27 => r27_match_operations::execute(),
+        28 => r28_function::execute(),
+        29 => r29_method::execute(),
+        30 => r30_closure::execute(),
         _ => (),
     }
 

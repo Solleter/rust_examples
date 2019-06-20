@@ -32,3 +32,6 @@ r24_if_else = { path = "../r24_if_else" }
 r25_loop_while_for = { path = "../r25_loop_while_for" }
 r26_match = { path = "../r26_match" }
 r27_match_operations = { path = "../r27_match_operations" }
+r28_function = { path = "../r28_function" }
+r29_method = { path = "../r29_method" }
+r30_closure = { path = "../r30_closure" }
