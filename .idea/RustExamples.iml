@@ -134,6 +134,14 @@
       <sourceFolder url="file://$MODULE_DIR$/r32_as_params/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/r32_as_params/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/r32_as_params/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r33_type_lambda/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r33_type_lambda/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r33_type_lambda/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r33_type_lambda/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r34_std/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r34_std/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r34_std/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r34_std/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/r01_display/target" />
       <excludeFolder url="file://$MODULE_DIR$/r02_testlist/target" />
@@ -167,6 +175,8 @@
       <excludeFolder url="file://$MODULE_DIR$/r30_closure/target" />
       <excludeFolder url="file://$MODULE_DIR$/r31_capture/target" />
       <excludeFolder url="file://$MODULE_DIR$/r32_as_params/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r33_type_lambda/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r34_std/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

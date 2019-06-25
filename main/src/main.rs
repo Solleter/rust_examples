@@ -30,9 +30,11 @@ use r29_method;
 use r30_closure;
 use r31_capture;
 use r32_as_params;
+use r33_type_lambda;
+use r34_std;
 
 fn main() {
-    let example = 32;
+    let example = 34;
 
     match example {
         1 => r01_display::execute(),
@@ -67,6 +69,8 @@ fn main() {
         30 => r30_closure::execute(),
         31 => r31_capture::execute(),
         32 => r32_as_params::execute(),
+        33 => r33_type_lambda::execute(),
+        34 => r34_std::execute(),
         _ => (),
     }
 

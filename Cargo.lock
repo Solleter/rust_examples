@@ -36,6 +36,8 @@ dependencies = [
  "r30_closure 0.1.0",
  "r31_capture 0.1.0",
  "r32_as_params 0.1.0",
+ "r33_type_lambda 0.1.0",
+ "r34_std 0.1.0",
 ]
 
 [[package]]
@@ -164,5 +166,13 @@ version = "0.1.0"
 
 [[package]]
 name = "r32_as_params"
+version = "0.1.0"
+
+[[package]]
+name = "r33_type_lambda"
+version = "0.1.0"
+
+[[package]]
+name = "r34_std"
 version = "0.1.0"
 
