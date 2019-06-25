@@ -126,6 +126,14 @@
       <sourceFolder url="file://$MODULE_DIR$/r30_closure/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/r30_closure/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/r30_closure/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r31_capture/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r31_capture/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r31_capture/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r31_capture/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r32_as_params/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r32_as_params/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r32_as_params/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r32_as_params/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/r01_display/target" />
       <excludeFolder url="file://$MODULE_DIR$/r02_testlist/target" />
@@ -157,6 +165,8 @@
       <excludeFolder url="file://$MODULE_DIR$/r28_function/target" />
       <excludeFolder url="file://$MODULE_DIR$/r29_method/target" />
       <excludeFolder url="file://$MODULE_DIR$/r30_closure/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r31_capture/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r32_as_params/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

@@ -28,9 +28,11 @@ use r27_match_operations;
 use r28_function;
 use r29_method;
 use r30_closure;
+use r31_capture;
+use r32_as_params;
 
 fn main() {
-    let example = 30;
+    let example = 32;
 
     match example {
         1 => r01_display::execute(),
@@ -63,6 +65,8 @@ fn main() {
         28 => r28_function::execute(),
         29 => r29_method::execute(),
         30 => r30_closure::execute(),
+        31 => r31_capture::execute(),
+        32 => r32_as_params::execute(),
         _ => (),
     }
 

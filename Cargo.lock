@@ -34,6 +34,8 @@ dependencies = [
  "r28_function 0.1.0",
  "r29_method 0.1.0",
  "r30_closure 0.1.0",
+ "r31_capture 0.1.0",
+ "r32_as_params 0.1.0",
 ]
 
 [[package]]
@@ -154,5 +156,13 @@ version = "0.1.0"
 
 [[package]]
 name = "r30_closure"
+version = "0.1.0"
+
+[[package]]
+name = "r31_capture"
+version = "0.1.0"
+
+[[package]]
+name = "r32_as_params"
 version = "0.1.0"
 
