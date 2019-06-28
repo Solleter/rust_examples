@@ -39,3 +39,5 @@ r31_capture = { path = "../r31_capture" }
 r32_as_params = { path = "../r32_as_params" }
 r33_type_lambda = { path = "../r33_type_lambda" }
 r34_std = { path = "../r34_std" }
+r35_higher_order_function = { path = "../r35_higher_order_function" }
+r36_diverging_function = { path = "../r36_diverging_function" }

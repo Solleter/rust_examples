@@ -32,9 +32,11 @@ use r31_capture;
 use r32_as_params;
 use r33_type_lambda;
 use r34_std;
+use r35_higher_order_function;
+use r36_diverging_function;
 
 fn main() {
-    let example = 34;
+    let example = 36;
 
     match example {
         1 => r01_display::execute(),
@@ -71,6 +73,8 @@ fn main() {
         32 => r32_as_params::execute(),
         33 => r33_type_lambda::execute(),
         34 => r34_std::execute(),
+        35 => r35_higher_order_function::execute(),
+        36 => r36_diverging_function::execute(),
         _ => (),
     }
 

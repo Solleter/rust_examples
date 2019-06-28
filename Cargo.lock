@@ -38,6 +38,8 @@ dependencies = [
  "r32_as_params 0.1.0",
  "r33_type_lambda 0.1.0",
  "r34_std 0.1.0",
+ "r35_higher_order_function 0.1.0",
+ "r36_diverging_function 0.1.0",
 ]
 
 [[package]]
@@ -174,5 +176,13 @@ version = "0.1.0"
 
 [[package]]
 name = "r34_std"
+version = "0.1.0"
+
+[[package]]
+name = "r35_higher_order_function"
+version = "0.1.0"
+
+[[package]]
+name = "r36_diverging_function"
 version = "0.1.0"
 
