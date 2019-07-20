@@ -34,9 +34,16 @@ use r33_type_lambda;
 use r34_std;
 use r35_higher_order_function;
 use r36_diverging_function;
+use r37_10_1_visibility;
+use r38_10_2_struct_visibility;
+use r39_10_3_use;
+use r40_10_4_super_self;
+use r41_10_5_files;
+use r45_std_box;
+use r46_std_vector;
 
 fn main() {
-    let example = 36;
+    let example = 46;
 
     match example {
         1 => r01_display::execute(),
@@ -75,6 +82,13 @@ fn main() {
         34 => r34_std::execute(),
         35 => r35_higher_order_function::execute(),
         36 => r36_diverging_function::execute(),
+        37 => r37_10_1_visibility::execute(),
+        38 => r38_10_2_struct_visibility::execute(),
+        39 => r39_10_3_use::execute(),
+        40 => r40_10_4_super_self::execute(),
+        41 => r41_10_5_files::execute(),
+        45 => r45_std_box::execute(),
+        46 => r46_std_vector::execute(),
         _ => (),
     }
 

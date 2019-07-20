@@ -40,6 +40,13 @@ dependencies = [
  "r34_std 0.1.0",
  "r35_higher_order_function 0.1.0",
  "r36_diverging_function 0.1.0",
+ "r37_10_1_visibility 0.1.0",
+ "r38_10_2_struct_visibility 0.1.0",
+ "r39_10_3_use 0.1.0",
+ "r40_10_4_super_self 0.1.0",
+ "r41_10_5_files 0.1.0",
+ "r45_std_box 0.1.0",
+ "r46_std_vector 0.1.0",
 ]
 
 [[package]]
@@ -184,5 +191,33 @@ version = "0.1.0"
 
 [[package]]
 name = "r36_diverging_function"
+version = "0.1.0"
+
+[[package]]
+name = "r37_10_1_visibility"
+version = "0.1.0"
+
+[[package]]
+name = "r38_10_2_struct_visibility"
+version = "0.1.0"
+
+[[package]]
+name = "r39_10_3_use"
+version = "0.1.0"
+
+[[package]]
+name = "r40_10_4_super_self"
+version = "0.1.0"
+
+[[package]]
+name = "r41_10_5_files"
+version = "0.1.0"
+
+[[package]]
+name = "r45_std_box"
+version = "0.1.0"
+
+[[package]]
+name = "r46_std_vector"
 version = "0.1.0"
 

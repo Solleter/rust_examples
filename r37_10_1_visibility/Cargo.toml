@@ -1,0 +1,7 @@
+[package]
+name = "r37_10_1_visibility"
+version = "0.1.0"
+authors = ["Solleter <Solleter@outlook.com>"]
+edition = "2018"
+
+[dependencies]

@@ -41,3 +41,10 @@ r33_type_lambda = { path = "../r33_type_lambda" }
 r34_std = { path = "../r34_std" }
 r35_higher_order_function = { path = "../r35_higher_order_function" }
 r36_diverging_function = { path = "../r36_diverging_function" }
+r37_10_1_visibility = { path = "../r37_10_1_visibility" }
+r38_10_2_struct_visibility = { path = "../r38_10_2_struct_visibility" }
+r39_10_3_use = { path = "../r39_10_3_use" }
+r40_10_4_super_self = { path = "../r40_10_4_super_self" }
+r41_10_5_files = { path = "../r41_10_5_files" }
+r45_std_box = { path = "../r45_std_box" }
+r46_std_vector = { path = "../r46_std_vector" }

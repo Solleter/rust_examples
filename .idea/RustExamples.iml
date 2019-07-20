@@ -150,6 +150,34 @@
       <sourceFolder url="file://$MODULE_DIR$/r36_diverging_function/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/r36_diverging_function/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/r36_diverging_function/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r37_10_1_visibility/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r37_10_1_visibility/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r37_10_1_visibility/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r37_10_1_visibility/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r38_10_2_struct_visibility/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r38_10_2_struct_visibility/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r38_10_2_struct_visibility/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r38_10_2_struct_visibility/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r39_10_3_use/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r39_10_3_use/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r39_10_3_use/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r39_10_3_use/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r40_10_4_super_self/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r40_10_4_super_self/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r40_10_4_super_self/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r40_10_4_super_self/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r41_10_5_files/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r41_10_5_files/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r41_10_5_files/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r41_10_5_files/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r45_std_box/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r45_std_box/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r45_std_box/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r45_std_box/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r46_std_vector/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r46_std_vector/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r46_std_vector/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r46_std_vector/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/r01_display/target" />
       <excludeFolder url="file://$MODULE_DIR$/r02_testlist/target" />
@@ -187,6 +215,13 @@
       <excludeFolder url="file://$MODULE_DIR$/r34_std/target" />
       <excludeFolder url="file://$MODULE_DIR$/r35_higher_order_function/target" />
       <excludeFolder url="file://$MODULE_DIR$/r36_diverging_function/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r37_10_1_visibility/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r38_10_2_struct_visibility/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r39_10_3_use/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r40_10_4_super_self/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r41_10_5_files/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r45_std_box/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r46_std_vector/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
