@@ -178,6 +178,22 @@
       <sourceFolder url="file://$MODULE_DIR$/r46_std_vector/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/r46_std_vector/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/r46_std_vector/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r47_std_string/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r47_std_string/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r47_std_string/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r47_std_string/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r48_std_option/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r48_std_option/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r48_std_option/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r48_std_option/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r49_std_result/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r49_std_result/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r49_std_result/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r49_std_result/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r50_std_result2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r50_std_result2/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r50_std_result2/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r50_std_result2/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/r01_display/target" />
       <excludeFolder url="file://$MODULE_DIR$/r02_testlist/target" />
@@ -222,6 +238,10 @@
       <excludeFolder url="file://$MODULE_DIR$/r41_10_5_files/target" />
       <excludeFolder url="file://$MODULE_DIR$/r45_std_box/target" />
       <excludeFolder url="file://$MODULE_DIR$/r46_std_vector/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r47_std_string/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r48_std_option/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r49_std_result/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r50_std_result2/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

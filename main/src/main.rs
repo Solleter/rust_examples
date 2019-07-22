@@ -41,9 +41,13 @@ use r40_10_4_super_self;
 use r41_10_5_files;
 use r45_std_box;
 use r46_std_vector;
+use r47_std_string;
+use r48_std_option;
+use r49_std_result;
+use r50_std_result2;
 
 fn main() {
-    let example = 46;
+    let example = 50;
 
     match example {
         1 => r01_display::execute(),
@@ -89,6 +93,10 @@ fn main() {
         41 => r41_10_5_files::execute(),
         45 => r45_std_box::execute(),
         46 => r46_std_vector::execute(),
+        47 => r47_std_string::execute(),
+        48 => r48_std_option::execute(),
+        49 => r49_std_result::execute(),
+        50 => r50_std_result2::execute(),
         _ => (),
     }
 

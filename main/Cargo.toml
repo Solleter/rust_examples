@@ -48,3 +48,7 @@ r40_10_4_super_self = { path = "../r40_10_4_super_self" }
 r41_10_5_files = { path = "../r41_10_5_files" }
 r45_std_box = { path = "../r45_std_box" }
 r46_std_vector = { path = "../r46_std_vector" }
+r47_std_string = { path = "../r47_std_string" }
+r48_std_option = { path = "../r48_std_option" }
+r49_std_result = { path = "../r49_std_result" }
+r50_std_result2 = { path = "../r50_std_result2" }

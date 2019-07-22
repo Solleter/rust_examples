@@ -47,6 +47,10 @@ dependencies = [
  "r41_10_5_files 0.1.0",
  "r45_std_box 0.1.0",
  "r46_std_vector 0.1.0",
+ "r47_std_string 0.1.0",
+ "r48_std_option 0.1.0",
+ "r49_std_result 0.1.0",
+ "r50_std_result2 0.1.0",
 ]
 
 [[package]]
@@ -219,5 +223,21 @@ version = "0.1.0"
 
 [[package]]
 name = "r46_std_vector"
+version = "0.1.0"
+
+[[package]]
+name = "r47_std_string"
+version = "0.1.0"
+
+[[package]]
+name = "r48_std_option"
+version = "0.1.0"
+
+[[package]]
+name = "r49_std_result"
+version = "0.1.0"
+
+[[package]]
+name = "r50_std_result2"
 version = "0.1.0"
 
