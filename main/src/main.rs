@@ -45,9 +45,12 @@ use r47_std_string;
 use r48_std_option;
 use r49_std_result;
 use r50_std_result2;
+use r51_hashmap_hashset;
+use r52_thread;
+use r53_thread_example;
 
 fn main() {
-    let example = 50;
+    let example = 53;
 
     match example {
         1 => r01_display::execute(),
@@ -97,6 +100,9 @@ fn main() {
         48 => r48_std_option::execute(),
         49 => r49_std_result::execute(),
         50 => r50_std_result2::execute(),
+        51 => r51_hashmap_hashset::execute(),
+        52 => r52_thread::execute(),
+        53 => r53_thread_example::execute(),
         _ => (),
     }
 

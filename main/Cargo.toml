@@ -52,3 +52,6 @@ r47_std_string = { path = "../r47_std_string" }
 r48_std_option = { path = "../r48_std_option" }
 r49_std_result = { path = "../r49_std_result" }
 r50_std_result2 = { path = "../r50_std_result2" }
+r51_hashmap_hashset = { path = "../r51_hashmap_hashset" }
+r52_thread = { path = "../r52_thread" }
+r53_thread_example = { path = "../r53_thread_example" }

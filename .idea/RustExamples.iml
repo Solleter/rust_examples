@@ -194,6 +194,18 @@
       <sourceFolder url="file://$MODULE_DIR$/r50_std_result2/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/r50_std_result2/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/r50_std_result2/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r51_hashmap_hashset/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r51_hashmap_hashset/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r51_hashmap_hashset/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r51_hashmap_hashset/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r52_thread/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r52_thread/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r52_thread/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r52_thread/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r53_thread_example/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r53_thread_example/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r53_thread_example/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r53_thread_example/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/r01_display/target" />
       <excludeFolder url="file://$MODULE_DIR$/r02_testlist/target" />
@@ -242,6 +254,9 @@
       <excludeFolder url="file://$MODULE_DIR$/r48_std_option/target" />
       <excludeFolder url="file://$MODULE_DIR$/r49_std_result/target" />
       <excludeFolder url="file://$MODULE_DIR$/r50_std_result2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r51_hashmap_hashset/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r52_thread/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r53_thread_example/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

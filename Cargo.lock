@@ -51,6 +51,9 @@ dependencies = [
  "r48_std_option 0.1.0",
  "r49_std_result 0.1.0",
  "r50_std_result2 0.1.0",
+ "r51_hashmap_hashset 0.1.0",
+ "r52_thread 0.1.0",
+ "r53_thread_example 0.1.0",
 ]
 
 [[package]]
@@ -239,5 +242,17 @@ version = "0.1.0"
 
 [[package]]
 name = "r50_std_result2"
+version = "0.1.0"
+
+[[package]]
+name = "r51_hashmap_hashset"
+version = "0.1.0"
+
+[[package]]
+name = "r52_thread"
+version = "0.1.0"
+
+[[package]]
+name = "r53_thread_example"
 version = "0.1.0"
 
