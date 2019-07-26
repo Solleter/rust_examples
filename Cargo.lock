@@ -54,6 +54,10 @@ dependencies = [
  "r51_hashmap_hashset 0.1.0",
  "r52_thread 0.1.0",
  "r53_thread_example 0.1.0",
+ "r54_channel 0.1.0",
+ "r55_path 0.1.0",
+ "r56_file 0.1.0",
+ "r57_child_process 0.1.0",
 ]
 
 [[package]]
@@ -254,5 +258,21 @@ version = "0.1.0"
 
 [[package]]
 name = "r53_thread_example"
+version = "0.1.0"
+
+[[package]]
+name = "r54_channel"
+version = "0.1.0"
+
+[[package]]
+name = "r55_path"
+version = "0.1.0"
+
+[[package]]
+name = "r56_file"
+version = "0.1.0"
+
+[[package]]
+name = "r57_child_process"
 version = "0.1.0"
 

@@ -55,3 +55,7 @@ r50_std_result2 = { path = "../r50_std_result2" }
 r51_hashmap_hashset = { path = "../r51_hashmap_hashset" }
 r52_thread = { path = "../r52_thread" }
 r53_thread_example = { path = "../r53_thread_example" }
+r54_channel = { path = "../r54_channel" }
+r55_path = { path = "../r55_path" }
+r56_file = { path = "../r56_file" }
+r57_child_process = { path = "../r57_child_process" }

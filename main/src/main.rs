@@ -48,9 +48,13 @@ use r50_std_result2;
 use r51_hashmap_hashset;
 use r52_thread;
 use r53_thread_example;
+use r54_channel;
+use r55_path;
+use r56_file;
+use r57_child_process;
 
 fn main() {
-    let example = 53;
+let example = 57;
 
     match example {
         1 => r01_display::execute(),
@@ -103,6 +107,10 @@ fn main() {
         51 => r51_hashmap_hashset::execute(),
         52 => r52_thread::execute(),
         53 => r53_thread_example::execute(),
+        54 => r54_channel::execute(),
+        55 => r55_path::execute(),
+        56 => r56_file::execute(),
+        57 => r57_child_process::execute(),
         _ => (),
     }
 
